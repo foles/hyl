@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hyl/static/css/main.efb48b7c.chunk.css",
+    "main.js": "/hyl/static/js/main.0ce7cff3.chunk.js",
+    "main.js.map": "/hyl/static/js/main.0ce7cff3.chunk.js.map",
+    "runtime-main.js": "/hyl/static/js/runtime-main.95f6131a.js",
+    "runtime-main.js.map": "/hyl/static/js/runtime-main.95f6131a.js.map",
+    "static/js/2.e18208d9.chunk.js": "/hyl/static/js/2.e18208d9.chunk.js",
+    "static/js/2.e18208d9.chunk.js.map": "/hyl/static/js/2.e18208d9.chunk.js.map",
+    "static/js/3.90866361.chunk.js": "/hyl/static/js/3.90866361.chunk.js",
+    "static/js/3.90866361.chunk.js.map": "/hyl/static/js/3.90866361.chunk.js.map",
+    "index.html": "/hyl/index.html",
+    "static/css/main.efb48b7c.chunk.css.map": "/hyl/static/css/main.efb48b7c.chunk.css.map",
+    "static/js/2.e18208d9.chunk.js.LICENSE.txt": "/hyl/static/js/2.e18208d9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/hyl/static/media/fondo.12fba335.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95f6131a.js",
+    "static/js/2.e18208d9.chunk.js",
+    "static/css/main.efb48b7c.chunk.css",
+    "static/js/main.0ce7cff3.chunk.js"
+  ]
+}
